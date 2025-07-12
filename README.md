@@ -1,29 +1,18 @@
-# 🎨 Biblioteca de Componentes UI Reutilizables
+# Biblioteca de Componentes UI Reutilizables
 
-Esta es una colección de componentes de interfaz de usuario (UI) desarrollada con **CSS avanzado**, orientada a fomentar la **modularidad**, **reutilización**, **coherencia visual** y **escalabilidad** en el desarrollo de sitios y aplicaciones web.
+Esta es una colección de componentes UI diseñados con CSS avanzado para fomentar modularidad, reutilización y escalabilidad.
 
----
+## Componentes Incluidos
 
-## ✨ Características
+- ✅ Botones (primario, secundario, deshabilitado)
+- ✅ Tarjetas de contenido
+- ✅ Formularios (inputs, selects, checkboxes)
+- ✅ Navbar responsivo
+- ✅ Modal
 
-- 🎯 Componentes modulares y reutilizables.
-- 💡 Estilizados con CSS avanzado: variables, Flexbox, Grid, pseudo-clases, animaciones, media queries.
-- 📦 Estructura clara y organizada.
-- 🌐 Compatible con GitHub Pages para demostración web.
+## Guía de uso
 
-
-## 📁 Estructura del Proyecto
-ui-library/
-│
-├── index.html                # Página de demostración de componentes
-├── styles/
-│   ├── variables.css         # Variables y estilos base (colores, fuentes, espaciado)
-│   └── components.css        # Estilos de todos los componentes UI
-
-| Componente      | Descripción                                     |
-| --------------- | ----------------------------------------------- |
-| **Botones**     | Primario, secundario, deshabilitado, con hover. |
-| **Tarjetas**    | Contenido modular con título y texto.           |
-| **Formularios** | Inputs, selects y checkboxes estilizados.       |
-| **Navbar**      | Menú de navegación responsivo.                  |
-| **Modal**       | Ventana emergente controlada por clases.        |
+### 1. Estructura
+```html
+<link rel="stylesheet" href="styles/variables.css" />
+<link rel="stylesheet" href="styles/components.css" />
