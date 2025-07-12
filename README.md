@@ -11,7 +11,6 @@ Esta es una colección de componentes de interfaz de usuario (UI) desarrollada c
 - 📦 Estructura clara y organizada.
 - 🌐 Compatible con GitHub Pages para demostración web.
 
----
 
 ## 📁 Estructura del Proyecto
 ui-library/
